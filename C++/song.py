@@ -1,0 +1,5 @@
+s  =  input()
+x = s.split("WUB")
+y = filter(lambda i: i!= "", x)
+oput = " ".join(y)
+print(oput)
