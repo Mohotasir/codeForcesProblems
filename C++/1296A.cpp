@@ -8,7 +8,6 @@ int main()
 		int n;
 		cin >> n;
 		int sum = 0;
-		//bool odd = false, even = false;
       int c1 = 0,c2=0;
 		for (int i = 0; i < n; ++i) {
 			int x;
